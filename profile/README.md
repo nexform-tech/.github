@@ -16,9 +16,9 @@ page maps the organization for developers, researchers and integrators.
 
 ## Architecture
 
-The stack reads top to bottom: agents decide, simulators test, SDKs
-communicate, hardware moves. Every card links into the repository that
-implements it.
+The stack reads top to bottom: agents decide, simulators test, ROS
+integrates, SDKs communicate, hardware moves. Every card links into the
+repository that implements it.
 
 <div style="border: 1px solid rgba(124, 58, 237, 0.40); border-radius: 14px; background: linear-gradient(180deg, rgba(124, 58, 237, 0.10) 0%, rgba(124, 58, 237, 0.02) 100%); padding: 18px 22px;">
 
@@ -60,7 +60,29 @@ implements it.
 </div>
 </div>
 
-<div align="center" style="color: #6B7280; font-size: 13px; font-weight: 600; padding: 6px 0;">one API — the same code drives simulation and hardware</div>
+<div align="center" style="color: #6B7280; font-size: 13px; font-weight: 600; padding: 6px 0;">same API as the robot — simulation is drop-in for the SDK</div>
+
+<div style="border: 1px solid rgba(79, 70, 229, 0.40); border-radius: 14px; background: linear-gradient(180deg, rgba(79, 70, 229, 0.10) 0%, rgba(79, 70, 229, 0.02) 100%); padding: 18px 22px;">
+
+<div style="display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px;">
+<b style="color: #4F46E5; font-size: 15px;">ROS middleware layer</b>
+<span style="color: #6B7280; font-size: 12px;">topics, motion planning and visualization in the standard ecosystem</span>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+<a href="https://github.com/nexform-tech/litearm-ros1" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #22314E; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">ROS 1 · driver</span></a>
+
+<a href="https://github.com/nexform-tech/litearm-ros2" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #334155; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">ROS 2 · driver</span></a>
+
+<a href="https://github.com/nexform-tech/litearm-moveit1" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #0E7490; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">MoveIt 1 · motion planning</span></a>
+
+<a href="https://github.com/nexform-tech/litearm-moveit2" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #0891B2; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">MoveIt 2 · motion planning</span></a>
+
+</div>
+</div>
+
+<div align="center" style="color: #6B7280; font-size: 12px; padding: 6px 0;">ROS drivers wrap the SDK</div>
 
 <div style="border: 1px solid rgba(37, 99, 235, 0.40); border-radius: 14px; background: linear-gradient(180deg, rgba(37, 99, 235, 0.10) 0%, rgba(37, 99, 235, 0.02) 100%); padding: 18px 22px;">
 
@@ -77,24 +99,6 @@ implements it.
 
 </div>
 
-<hr style="border: 0; border-top: 1px solid rgba(37, 99, 235, 0.30); margin: 14px 0 12px;">
-
-<div style="display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px;">
-<b style="color: #2563EB; font-size: 13px;">ROS middleware layer</b>
-<span style="color: #6B7280; font-size: 12px;">topics, motion planning and visualization in the standard ecosystem</span>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
-<a href="https://github.com/nexform-tech/litearm-ros1" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #22314E; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">ROS 1 · driver</span></a>
-
-<a href="https://github.com/nexform-tech/litearm-ros2" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #334155; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">ROS 2 · driver</span></a>
-
-<a href="https://github.com/nexform-tech/litearm-moveit1" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #0E7490; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">MoveIt 1 · motion planning</span></a>
-
-<a href="https://github.com/nexform-tech/litearm-moveit2" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #0891B2; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">MoveIt 2 · motion planning</span></a>
-
-</div>
 </div>
 
 <div align="center" style="color: #6B7280; font-size: 12px; padding: 6px 0;">↓ commands · ↑ state at 100 Hz over one USB serial cable</div>
