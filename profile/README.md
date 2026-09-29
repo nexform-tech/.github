@@ -8,7 +8,7 @@ page maps the organization for developers, researchers and integrators.
 <p style="margin: 0 0 18px; color: #E0E7FF; font-size: 1.05em;">One stack from agent to actuator</p>
 
 <img alt="Hardware: LiteArm, W1, LiteGrip" src="https://img.shields.io/badge/Hardware-LiteArm_%C2%B7_W1_%C2%B7_LiteGrip-D97706?labelColor=1F2937" style="margin: 2px;">
-<img alt="SDKs: C++, Python, JavaScript" src="https://img.shields.io/badge/SDKs-C%2B%2B_%C2%B7_Python_%C2%B7_JavaScript-2563EB?labelColor=1F2937" style="margin: 2px;">
+<img alt="SDKs: C++, Python" src="https://img.shields.io/badge/SDKs-C%2B%2B_%C2%B7_Python-2563EB?labelColor=1F2937" style="margin: 2px;">
 <img alt="Simulation: Isaac Sim, MuJoCo, PyBullet" src="https://img.shields.io/badge/Simulation-Isaac_Sim_%C2%B7_MuJoCo_%C2%B7_PyBullet-059669?labelColor=1F2937" style="margin: 2px;">
 <img alt="AI: LeRobot, VLA, DeepSeek, Hermes" src="https://img.shields.io/badge/AI_Agents-LeRobot_%C2%B7_VLA_%C2%B7_DeepSeek_%C2%B7_Hermes-7C3AED?labelColor=1F2937" style="margin: 2px;">
 
@@ -66,7 +66,7 @@ implements it.
 
 <div style="display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px;">
 <b style="color: #2563EB; font-size: 15px;">SDK layer</b>
-<span style="color: #6B7280; font-size: 12px;">one interface in three languages</span>
+<span style="color: #6B7280; font-size: 12px;">one interface in two languages</span>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -74,8 +74,6 @@ implements it.
 <a href="https://github.com/nexform-tech/litearm-cpp" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #00599C; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">C++ SDK · real-time, zero dependencies</span></a>
 
 <a href="https://github.com/nexform-tech/litearm-python" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #3776AB; color: #FFFFFF; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">Python SDK · primary interface</span></a>
-
-<a href="https://github.com/nexform-tech/litearm-js" style="text-decoration: none;"><span style="display: inline-block; margin: 4px; background: #F7DF1E; color: #1F2430; padding: 5px 14px; border-radius: 999px; font-size: 13px; font-weight: 600;">JavaScript SDK · browser and Node.js</span></a>
 
 </div>
 </div>
@@ -105,7 +103,6 @@ implements it.
 | Runtime | Package | One-line install |
 | --- | --- | --- |
 | Python 3.9 or later | [litearm-python](https://github.com/nexform-tech/litearm-python) — imports as `litearm` | `pip install git+https://github.com/nexform-tech/litearm-python` |
-| JavaScript / TypeScript | [litearm-js](https://github.com/nexform-tech/litearm-js) | `git clone https://github.com/nexform-tech/litearm-js` |
 | C++17 | [litearm-cpp](https://github.com/nexform-tech/litearm-cpp) | `git clone https://github.com/nexform-tech/litearm-cpp` |
 
 No package is published on PyPI or npm yet, so the rows install from the
@@ -129,7 +126,6 @@ product means knowing all three:
 | --- | --- |
 | `-python` | Python SDK — the primary public interface |
 | `-cpp` | C++ SDK |
-| `-js` | JavaScript / TypeScript SDK |
 | `-ros1`, `-ros2` | ROS 1 and ROS 2 drivers |
 | `-docs` | Product documentation source, built and published as the documentation site |
 | `-pybullet`, `-mujoco`, `-isaacsim` | Physics simulation environments |
