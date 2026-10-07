@@ -20,6 +20,12 @@ integrators: the three product lines, the six layers each of them is built from,
 and the repository to open first. Read it from the top down and you walk the
 stack from the application layer to the hardware.
 
+NEXFORM (新元体) is an embodied-AI commercialization project led by an expert team
+from the Robotics Institute at Zhejiang University. We build general-purpose
+embodied robots, their key components and modular application solutions for
+hotels, property management, retail and logistics, and publish every product line
+as the same repositories.
+
 ## Product lines
 
 | Product line | What it is | Documentation |
@@ -77,6 +83,18 @@ then open it in the product line you have.
 | Integrate with ROS 1 or ROS 2 | the `-ros1` or `-ros2` repository |
 | Simulate before buying | the `-mujoco`, `-pybullet` or `-isaacsim` repository |
 | Train or run a policy | the `-vla` or `-lerobot` repository |
+
+## Contact
+
+[nexform.tech](https://nexform.tech) · [about](https://nexform.tech/about) · [purchase and partnership](https://nexform.tech/purchase) · [support](https://nexform.tech/support)
+
+- **Email** — [contact@nexform.tech](mailto:contact@nexform.tech)
+- **Phone** — 400-136-1680, weekdays 09:00-12:00 and 13:00-18:00 (UTC+8)
+- **WeChat** — scan the QR code on the [purchase page](https://nexform.tech/purchase) to add the WeCom account
+
+International: [YouTube](https://www.youtube.com/@NEXFORM_ROBOTIC) · [X](https://x.com/NEXFORM_ROBOT) · [Instagram](https://www.instagram.com/nexformrobotic/) · [TikTok](https://www.tiktok.com/@nexformrobotic)
+
+China: [WeChat Channels](https://weixin.qq.com/sph/A3U869fYpt) · [Bilibili](https://space.bilibili.com/3546972306802726) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68be9b72000000001903c84d) · [Douyin](https://v.douyin.com/J8Rnj-SKHXY/) · [Weibo](https://weibo.com/u/9097701948) · [Kuaishou](https://live.kuaishou.com/profile/3xghun5jzi8bxri)
 
 ## License
 
