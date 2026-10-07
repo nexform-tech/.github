@@ -86,22 +86,11 @@ then open it in the product line you have.
 
 ## Contact
 
-[![Email: contact@nexform.tech](https://img.shields.io/badge/Email-contact%40nexform.tech-D14836?logo=maildotru&logoColor=white&style=flat-square)](mailto:contact@nexform.tech) ![Phone: 400-136-1680](https://img.shields.io/badge/Phone-400--136--1680-2E7D32?style=flat-square) [![WeChat: add the WeCom account from the QR code](https://img.shields.io/badge/WeChat-add_via_QR-07C160?logo=wechat&logoColor=white&style=flat-square)](https://nexform.tech/purchase)
+[![Email: contact@nexform.tech](https://img.shields.io/badge/Email-contact%40nexform.tech-D14836?logo=maildotru&logoColor=white&style=flat-square)](mailto:contact@nexform.tech) ![Phone: 400-136-1680](https://img.shields.io/badge/Phone-400--136--1680-2E7D32?style=flat-square) ![Hours: weekdays 09:00-12:00 and 13:00-18:00 UTC+8](https://img.shields.io/badge/Hours-Weekdays_09%3A00--12%3A00_and_13%3A00--18%3A00_UTC%2B8-455A64?style=flat-square)
 
-[![Website: nexform.tech](https://img.shields.io/badge/Website-nexform.tech-0B7285?logo=googlechrome&logoColor=white&style=flat-square)](https://nexform.tech) [![About NEXFORM](https://img.shields.io/badge/About-nexform.tech%2Fabout-0B7285?style=flat-square)](https://nexform.tech/about) [![Support](https://img.shields.io/badge/Support-nexform.tech%2Fsupport-0B7285?style=flat-square)](https://nexform.tech/support)
+[![YouTube: NEXFORM ROBOTIC](https://img.shields.io/badge/YouTube-NEXFORM%20ROBOTIC-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@NEXFORM_ROBOTIC) [![X: NEXFORM ROBOT](https://img.shields.io/badge/X-NEXFORM%20ROBOT-1D9BF0?logo=x&logoColor=white&style=flat-square)](https://x.com/NEXFORM_ROBOT) [![Instagram: nexformrobotic](https://img.shields.io/badge/Instagram-nexformrobotic-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/nexformrobotic/) [![TikTok: nexformrobotic](https://img.shields.io/badge/TikTok-nexformrobotic-FE2C55?logo=tiktok&logoColor=white&style=flat-square)](https://www.tiktok.com/@nexformrobotic)
 
-Email and phone are answered on weekdays 09:00-12:00 and 13:00-18:00 (UTC+8). For
-purchasing and partnership, see [nexform.tech/purchase](https://nexform.tech/purchase).
-
-**International**
-
-[![YouTube: NEXFORM ROBOTIC](https://img.shields.io/badge/YouTube-NEXFORM__ROBOTIC-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@NEXFORM_ROBOTIC) [![X: NEXFORM ROBOT](https://img.shields.io/badge/X-NEXFORM__ROBOT-1D9BF0?logo=x&logoColor=white&style=flat-square)](https://x.com/NEXFORM_ROBOT) [![Instagram: nexformrobotic](https://img.shields.io/badge/Instagram-nexformrobotic-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/nexformrobotic/) [![TikTok: nexformrobotic](https://img.shields.io/badge/TikTok-nexformrobotic-FE2C55?logo=tiktok&logoColor=white&style=flat-square)](https://www.tiktok.com/@nexformrobotic)
-
-**China**
-
-[![WeChat Channels: NEXFORM ROBOTICS](https://img.shields.io/badge/WeChat_Channels-NEXFORM__ROBOTICS-07C160?logo=wechat&logoColor=white&style=flat-square)](https://weixin.qq.com/sph/A3U869fYpt) [![Bilibili: NEXFORM ROBOTICS](https://img.shields.io/badge/Bilibili-NEXFORM__ROBOTICS-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546972306802726) [![Xiaohongshu: NEXFORM ROBOTICS](https://img.shields.io/badge/Xiaohongshu-NEXFORM__ROBOTICS-FF2442?logo=xiaohongshu&logoColor=white&style=flat-square)](https://www.xiaohongshu.com/user/profile/68be9b72000000001903c84d)
-
-[![Douyin: NEXFORM ROBOTICS](https://img.shields.io/badge/Douyin-NEXFORM__ROBOTICS-FE2C55?logo=douyin&logoColor=white&style=flat-square)](https://v.douyin.com/J8Rnj-SKHXY/) [![Weibo: NEXFORM ROBOTICS](https://img.shields.io/badge/Weibo-NEXFORM__ROBOTICS-E6162D?logo=sinaweibo&logoColor=white&style=flat-square)](https://weibo.com/u/9097701948) [![Kuaishou: NEXFORM ROBOTICS](https://img.shields.io/badge/Kuaishou-NEXFORM__ROBOTICS-FF4906?logo=kuaishou&logoColor=white&style=flat-square)](https://live.kuaishou.com/profile/3xghun5jzi8bxri)
+[![企业微信：扫码添加](https://img.shields.io/badge/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1-%E6%89%AB%E7%A0%81%E6%B7%BB%E5%8A%A0-07C160?logo=wechat&logoColor=white&style=flat-square)](https://nexform.tech/purchase) [![视频号：NEXFORM 新元体](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E5%8F%B7-07C160?logo=wechat&logoColor=white&style=flat-square)](https://weixin.qq.com/sph/A3U869fYpt) [![哔哩哔哩：NEXFORM 新元体](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546972306802726) [![小红书：NEXFORM 新元体](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?logo=xiaohongshu&logoColor=white&style=flat-square)](https://www.xiaohongshu.com/user/profile/68be9b72000000001903c84d) [![抖音：新元体机器人](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-FE2C55?logo=douyin&logoColor=white&style=flat-square)](https://v.douyin.com/J8Rnj-SKHXY/) [![微博：宇岛人工智能](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-E6162D?logo=sinaweibo&logoColor=white&style=flat-square)](https://weibo.com/u/9097701948) [![快手：NEXFORM 新元体](https://img.shields.io/badge/%E5%BF%AB%E6%89%8B-FF4906?logo=kuaishou&logoColor=white&style=flat-square)](https://live.kuaishou.com/profile/3xghun5jzi8bxri)
 
 ## License
 
@@ -111,6 +100,6 @@ Every product repository is licensed under the
 
 <div align="center">
 
-[github.com/nexform-tech](https://github.com/nexform-tech) · [www.nexform.tech](https://www.nexform.tech) · LiteArm · W1 · LiteGrip
+[nexform.tech](https://nexform.tech) · [about](https://nexform.tech/about) · [purchase and partnership](https://nexform.tech/purchase) · [support](https://nexform.tech/support)
 
 </div>
