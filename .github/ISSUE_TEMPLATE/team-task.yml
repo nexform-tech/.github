@@ -1,0 +1,59 @@
+name: Team Task Card
+description: Standard task card per the team operating rules — goal, acceptance criteria, deadline, and priority are mandatory.
+title: "[Task] "
+body:
+  - type: input
+    id: task
+    attributes:
+      label: Task
+      description: One sentence, verb-first. What exactly is to be done?
+      placeholder: "Implement the USB CDC write path in litearm-cpp"
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What product or business outcome does this task serve? Why does it matter?
+      placeholder: "Enables 1 kHz joint-command streaming for the ROS 2 driver, unblocking the teleop milestone."
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: A checklist an outsider could verify. Each item must be quantified, checkable, and traceable. Edit the three placeholder items.
+      value: |
+        - [ ] Criterion 1 — deliverable, quantity/scope, quality bar, delivery location
+        - [ ] Criterion 2 — ...
+        - [ ] Criterion 3 — ...
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      description: "Format: YYYY-MM-DD HH:MM (UTC+8)"
+      placeholder: "2026-10-10 18:00"
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: P0 = urgent, same day. P1 = important, this week. P2 = routine, this week. P3 = stretch, pick up anytime.
+      options:
+        - "P1 - important, this week"
+        - "P0 - urgent, same day"
+        - "P2 - routine, this week"
+        - "P3 - stretch"
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / Notes
+      description: Optional but encouraged — links, constraints, related issues, or enough context to hand this task to an AI assistant directly.
+    validations:
+      required: false
