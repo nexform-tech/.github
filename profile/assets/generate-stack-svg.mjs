@@ -91,7 +91,7 @@ const LAYERS = [
     dark: { accent: '#60a5fa', band: '#16233a', border: '#274064' },
     boxes: [
       ['VLA policies', 'pi0.5, GR00T'],
-      ['LeRobot driver', 'litearm-lerobot'],
+      ['LeRobot driver', 'data and training'],
       ['Agent platforms', 'DSH, Hermes'],
       ['Tool binding', 'OpenClaw'],
     ],
@@ -104,9 +104,9 @@ const LAYERS = [
     light: { accent: '#2f8f5b', band: '#d5ecdf', border: '#b2dcc5' },
     dark: { accent: '#4ade80', band: '#14291f', border: '#24513a' },
     boxes: [
-      ['MoveIt 2', 'litearm, litegrip'],
-      ['MoveIt 1', 'litearm-moveit1'],
-      ['VR teleop', 'litearm-teleop-vr'],
+      ['MoveIt 2', 'ROS 2 workspaces'],
+      ['MoveIt 1', 'ROS 1 workspaces'],
+      ['VR teleop', 'headset control'],
       ['Isomorphic teleop', 'leader-follower'],
     ],
   },
@@ -134,7 +134,7 @@ const LAYERS = [
     boxes: [
       ['Python SDK', 'primary interface'],
       ['C++ SDK', 'native, embedded'],
-      ['JavaScript SDK', 'litearm-js'],
+      ['JavaScript SDK', 'scripting and tools'],
       ['ROS 1 / ROS 2', 'drivers, topics'],
       ['ros2_control', 'hardware plugin'],
     ],
