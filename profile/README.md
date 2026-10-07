@@ -35,7 +35,11 @@ it: an application drives a policy, the policy plans a motion, the planner
 commands a driver, and the driver reaches the hardware through the model that
 simulation has already validated.
 
-![The NEXFORM stack: six layers, from applications and documentation at the top to robot hardware at the bottom](assets/stack.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="The NEXFORM stack: six layers, from applications and documentation at the top to robot hardware at the bottom" src="assets/stack-light.svg">
+</picture>
 
 ## Repository map
 

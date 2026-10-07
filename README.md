@@ -12,10 +12,13 @@ line. The repository standards that every other repository follows live in
 
 ## The stack diagram
 
-The landing page embeds [`profile/assets/stack.svg`](profile/assets/stack.svg),
-the six-layer diagram of the organization. Edit the `LAYERS` and `FLOWS` tables in
+The landing page embeds both color schemes of the organization's six-layer diagram,
+[`profile/assets/stack-light.svg`](profile/assets/stack-light.svg) and
+[`profile/assets/stack-dark.svg`](profile/assets/stack-dark.svg), and lets the reader's
+theme pick between them through the HTML `<picture>` element. Edit the `LAYERS` and
+`FLOWS` tables in
 [`profile/assets/generate-stack-svg.mjs`](profile/assets/generate-stack-svg.mjs)
-and regenerate the file instead of editing SVG coordinates by hand:
+and regenerate both files instead of editing SVG coordinates by hand:
 
 ```bash
 node profile/assets/generate-stack-svg.mjs
