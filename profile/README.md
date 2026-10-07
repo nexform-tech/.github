@@ -86,7 +86,7 @@ then open it in the product line you have.
 
 ## Contact
 
-[![Email: contact@nexform.tech](https://img.shields.io/badge/Email-contact%40nexform.tech-D14836?logo=maildotru&logoColor=white&style=flat-square)](mailto:contact@nexform.tech) ![Phone: 400-136-1680](https://img.shields.io/badge/Phone-400--136--1680-2E7D32?style=flat-square) ![Hours: weekdays 09:00-12:00 and 13:00-18:00 UTC+8](https://img.shields.io/badge/Hours-Weekdays_09%3A00--12%3A00_and_13%3A00--18%3A00_UTC%2B8-455A64?style=flat-square)
+[![Email: contact@nexform.tech](https://img.shields.io/badge/Email-contact%40nexform.tech-D14836?logo=maildotru&logoColor=white&style=flat-square)](mailto:contact@nexform.tech) ![Phone: 400-136-1680](https://img.shields.io/badge/Phone-400--136--1680-2E7D32?style=flat-square)
 
 [![YouTube: NEXFORM ROBOTIC](https://img.shields.io/badge/YouTube-NEXFORM%20ROBOTIC-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@NEXFORM_ROBOTIC) [![X: NEXFORM ROBOT](https://img.shields.io/badge/X-NEXFORM%20ROBOT-1D9BF0?logo=x&logoColor=white&style=flat-square)](https://x.com/NEXFORM_ROBOT) [![Instagram: nexformrobotic](https://img.shields.io/badge/Instagram-nexformrobotic-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/nexformrobotic/) [![TikTok: nexformrobotic](https://img.shields.io/badge/TikTok-nexformrobotic-FE2C55?logo=tiktok&logoColor=white&style=flat-square)](https://www.tiktok.com/@nexformrobotic)
 
