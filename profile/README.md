@@ -66,13 +66,16 @@ repository standards.
 ## Where to start
 
 No NEXFORM package is published to a registry yet, so both SDKs install straight
-from their repositories. The commands below install the tip of `main`:
+from their repositories; LiteArm needs Python 3.9 or later, LiteGrip 3.8 or
+later. These two commands install the tip of `main`:
 
-| Runtime | Package | Install |
-| --- | --- | --- |
-| Python 3.9 or later | [`litearm-python`](https://github.com/nexform-tech/litearm-python), imports as `litearm` | `pip install git+https://github.com/nexform-tech/litearm-python` |
-| Python 3.8 or later | [`litegrip-python`](https://github.com/nexform-tech/litegrip-python), imports as `litegrip` | `pip install git+https://github.com/nexform-tech/litegrip-python` |
-| C++17 | [`litearm-cpp`](https://github.com/nexform-tech/litearm-cpp) | see the repository README for the build |
+```bash
+pip install git+https://github.com/nexform-tech/litearm-python    # imports as litearm
+pip install git+https://github.com/nexform-tech/litegrip-python   # imports as litegrip
+```
+
+The C++ SDK needs C++17; [`litearm-cpp`](https://github.com/nexform-tech/litearm-cpp)
+documents its build.
 
 | I want to | Go to |
 | --- | --- |
