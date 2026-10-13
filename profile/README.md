@@ -4,10 +4,10 @@
 
 **Robot hardware and software, from the servo loop to embodied AI.**
 
-<img alt="Hardware: LiteArm, W1, LiteGrip" src="https://img.shields.io/badge/Hardware-LiteArm_%C2%B7_W1_%C2%B7_LiteGrip-D97706?labelColor=57606A&style=flat-square">
-<img alt="SDKs: Python, C++, JavaScript" src="https://img.shields.io/badge/SDKs-Python_%C2%B7_C%2B%2B_%C2%B7_JS-2563EB?labelColor=57606A&style=flat-square">
-<img alt="Simulation: MuJoCo, PyBullet, Isaac Sim" src="https://img.shields.io/badge/Simulation-MuJoCo_%C2%B7_PyBullet_%C2%B7_Isaac_Sim-059669?labelColor=57606A&style=flat-square">
-<img alt="Embodied AI: VLA, LeRobot" src="https://img.shields.io/badge/Embodied_AI-VLA_%C2%B7_LeRobot-7C3AED?labelColor=57606A&style=flat-square">
+<picture><img alt="Hardware: LiteArm, W1, LiteGrip" src="https://img.shields.io/badge/Hardware-LiteArm_%C2%B7_W1_%C2%B7_LiteGrip-D97706?labelColor=57606A&style=flat-square"></picture>
+<picture><img alt="SDKs: Python, C++, JavaScript" src="https://img.shields.io/badge/SDKs-Python_%C2%B7_C%2B%2B_%C2%B7_JS-2563EB?labelColor=57606A&style=flat-square"></picture>
+<picture><img alt="Simulation: MuJoCo, PyBullet, Isaac Sim" src="https://img.shields.io/badge/Simulation-MuJoCo_%C2%B7_PyBullet_%C2%B7_Isaac_Sim-059669?labelColor=57606A&style=flat-square"></picture>
+<picture><img alt="Embodied AI: VLA, LeRobot" src="https://img.shields.io/badge/Embodied_AI-VLA_%C2%B7_LeRobot-7C3AED?labelColor=57606A&style=flat-square"></picture>
 
 [Website](https://www.nexform.tech) · [The stack](#the-stack) · [Repository map](#repository-map) · [Where to start](#where-to-start)
 
