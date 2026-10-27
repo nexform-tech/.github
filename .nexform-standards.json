@@ -1,0 +1,8 @@
+{
+  "plugin": "nexform",
+  "version": "1",
+  "repo_type": "org-profile",
+  "ci_template": null,
+  "release_workflow": "nexform-tech/workflows/.github/workflows/release.yml@v1",
+  "updated_at": "2026-10-27T02:51:18Z"
+}
